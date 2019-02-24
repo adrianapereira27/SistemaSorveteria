@@ -1,0 +1,13 @@
+c:\users\i3i\documents\visual studio 2013\Projects\ConsoleApplication8\ConsoleApplication8\bin\Debug\ConsoleApplication8.exe.config
+c:\users\i3i\documents\visual studio 2013\Projects\ConsoleApplication8\ConsoleApplication8\obj\Debug\ConsoleApplication8.csprojResolveAssemblyReference.cache
+c:\users\i3i\documents\visual studio 2013\Projects\ConsoleApplication8\ConsoleApplication8\bin\Debug\ConsoleApplication8.exe
+c:\users\i3i\documents\visual studio 2013\Projects\ConsoleApplication8\ConsoleApplication8\bin\Debug\ConsoleApplication8.pdb
+c:\users\i3i\documents\visual studio 2013\Projects\ConsoleApplication8\ConsoleApplication8\obj\Debug\ConsoleApplication8.exe
+c:\users\i3i\documents\visual studio 2013\Projects\ConsoleApplication8\ConsoleApplication8\obj\Debug\ConsoleApplication8.pdb
+C:\Users\perei\source\repos\ConsoleApplication8\ConsoleApplication8\bin\Debug\ConsoleApplication8.exe.config
+C:\Users\perei\source\repos\ConsoleApplication8\ConsoleApplication8\bin\Debug\ConsoleApplication8.exe
+C:\Users\perei\source\repos\ConsoleApplication8\ConsoleApplication8\bin\Debug\ConsoleApplication8.pdb
+C:\Users\perei\source\repos\ConsoleApplication8\ConsoleApplication8\obj\Debug\ConsoleApplication8.csprojAssemblyReference.cache
+C:\Users\perei\source\repos\ConsoleApplication8\ConsoleApplication8\obj\Debug\ConsoleApplication8.csproj.CoreCompileInputs.cache
+C:\Users\perei\source\repos\ConsoleApplication8\ConsoleApplication8\obj\Debug\ConsoleApplication8.exe
+C:\Users\perei\source\repos\ConsoleApplication8\ConsoleApplication8\obj\Debug\ConsoleApplication8.pdb
